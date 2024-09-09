@@ -1,0 +1,162 @@
+m255
+K4
+z2
+!s11f vlog 2021.4 2021.10, Oct 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/lscc/radiant/3.2/modeltech/win32loem
+vhsoscEnable
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1725850126
+!i10b 1
+!s100 W]ggCgZhSoY?eHEo4HQoW3
+ILB1KK1`N_iFK;WGT5cTUM1
+S1
+Z2 dC:/Users/vparizot/E155/lab2_mvp/FPGA/sim
+Z3 w1725849362
+Z4 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+Z5 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+!i122 7
+L0 30 28
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OT;L;2021.4;73
+r1
+!s85 0
+31
+Z8 !s108 1725850126.000000
+Z9 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+!s101 -O0
+!i113 1
+Z11 o-work work -sv -O0
+Z12 tCvgOpt 0
+nhsosc@enable
+vlabtwo_tb
+R0
+R1
+!i10b 1
+!s100 8?5JNA48hRFMZ;_Vl[Thi2
+IH:YVUT0:=DU[E7@zcoVJ33
+S1
+R2
+w1725850123
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv
+!i122 8
+L0 6 68
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv|
+!s101 -O0
+!i113 1
+R11
+R12
+vmux2
+R0
+R1
+!i10b 1
+!s100 ^[1]9<kTjiXbL>E_<8=Ib2
+IkUG]]cBm]PMG=iI0<?No03
+S1
+R2
+R3
+R4
+R5
+!i122 7
+L0 60 8
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+vsevensegments
+R0
+R1
+!i10b 1
+!s100 OG>H0z1CBcIX94EHDc[g[2
+I^OMi1Wnba=gF77fUG>HYH3
+S1
+R2
+R3
+R4
+R5
+!i122 7
+L0 69 29
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+vsum2
+R0
+R1
+!i10b 1
+!s100 :k?YU?j=E4nKNbKkDfE>e3
+I:=<Mo4N3_B6lA=RV3aekb3
+S1
+R2
+R3
+R4
+R5
+!i122 7
+L0 99 17
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
+vtop
+R0
+R1
+!i10b 1
+!s100 ^HGCbWJO2bQDdafHYWd;E1
+IQG40m2;g:R>bmRNIfgKoo2
+S1
+R2
+R3
+R4
+R5
+!i122 7
+L0 3 26
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!s101 -O0
+!i113 1
+R11
+R12
