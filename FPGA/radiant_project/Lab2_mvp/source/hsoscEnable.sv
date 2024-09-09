@@ -2,6 +2,8 @@
 // vparizot@g.hmc.edu
 // 9/5/2024
 
+// calls internal high-speed oscillator and initializes a selector variable, 
+// which fluctuates at a frequency determines by counter
 module hsoscEnable(
 	output logic selector);
 
