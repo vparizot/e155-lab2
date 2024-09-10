@@ -2,7 +2,7 @@
 
 module sevensegments_tb();
  // Set up test signals
-	logic clk, reset;
+	logic clk;
 	logic [3:0] sy;
 	logic [6:0] segOut;
 	logic [6:0] segOut_expected;

@@ -1,4 +1,8 @@
+// Victoria Parizot
+// vparizot@g.hmc.edu
+// 09/06/2024
 
+// descr: top module for lab 2, calls sub modules for multiplexed display
 
 module top(
 	input logic [3:0] s1, s2,

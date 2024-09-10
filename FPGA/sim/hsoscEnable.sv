@@ -1,3 +1,8 @@
+// Victoria Parizot
+// vparizot@g.hmc.edu
+// 09/09/2024
+
+// descr: slows clock & stores in selector value
 
 module hsoscEnable(
 	input logic clk,

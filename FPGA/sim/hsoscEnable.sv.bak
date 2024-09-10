@@ -5,7 +5,7 @@ module hsoscEnable(
 
 // variables
 	//logic int_osc;
-	logic selector;
+
 	logic pulse;
 	logic led_state = 0;
 	logic [24:0] counter = 0;

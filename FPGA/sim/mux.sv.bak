@@ -1,4 +1,4 @@
-module mux2 (
+module mux (
 	input logic [3:0] s1, s2,
 	input logic selector,
 	output logic [3:0] sy);

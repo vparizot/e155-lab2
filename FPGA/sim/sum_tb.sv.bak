@@ -40,6 +40,31 @@ module sum_tb();
 	led_expected = 5'b11110;
 
 	#100;
+
+	s1 = 4'b0101;
+	s2 = 4'b0101;
+	led_expected = 5'b01010;
+
+	#100;
+
+	s1 = 4'b1000;
+	s2 = 4'b0000;
+	led_expected = 5'b10000;
+
+	#100;
+	
+	s1 = 4'b1000;
+	s2 = 4'b1000;
+	led_expected = 5'b10000;
+
+	#100;
+
+	s1 = 4'b0100;
+	s2 = 4'b0010;
+	led_expected = 5'b00110;
+
+	#100;
+
 	
    end
 endmodule

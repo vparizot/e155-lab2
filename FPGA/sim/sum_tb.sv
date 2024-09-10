@@ -1,3 +1,9 @@
+// Victoria Parizot
+// vparizot@g.hmc.edu
+// 09/09/2024
+
+// descr: testbench for sum module of lab 2
+
 `timescale 1ns/1ns
 
 module sum_tb();

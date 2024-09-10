@@ -11,55 +11,55 @@ cModel Technology
 dC:/lscc/radiant/3.2/modeltech/win32loem
 vhsoscEnable
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1725941387
+Z1 !s110 1725942018
 !i10b 1
-!s100 =F@GBSEjo:UQ`Tjne7M`00
-Izkf]BfPoY9O662;GmFn2U1
+!s100 ?MbT2fjRk?>>;cN]Wd@FT1
+I4=OOdmCm1NSR9D6cb`Ub93
 S1
 Z2 dC:/Users/vparizot/E155/lab2_mvp/FPGA/sim
-w1725941384
+w1725942011
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv
-!i122 107
-Z3 L0 2 29
-Z4 VDg1SIo80bB@j0V0VzS_@n1
-Z5 OT;L;2021.4;73
+!i122 116
+L0 7 29
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OT;L;2021.4;73
 r1
 !s85 0
 31
-Z6 !s108 1725941387.000000
+Z5 !s108 1725942018.000000
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv|
 !s101 -O0
 !i113 1
-Z7 o-work work -sv -O0
-Z8 tCvgOpt 0
+Z6 o-work work -sv -O0
+Z7 tCvgOpt 0
 nhsosc@enable
 vhsoscEnable_tb
 R0
 R1
 !i10b 1
-!s100 ?:4>miW^kRGzmA3_S3mZn3
-I8W`93ED7YccjVUKlQJdg43
+!s100 ;:jPiQbX3K]X0XT?ZCCk>3
+IinC^ke_9m7O3_WXfFY^V;0
 S1
 R2
-w1725940602
+w1725942010
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv
-!i122 108
-Z9 L0 3 26
+!i122 117
+L0 8 26
+R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 nhsosc@enable_tb
 vlabtwo_tb
 R0
@@ -74,8 +74,8 @@ w1725850123
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv
 !i122 25
 L0 6 68
+R3
 R4
-R5
 r1
 !s85 0
 31
@@ -84,83 +84,83 @@ r1
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vmux
 R0
-Z10 !s110 1725941386
+R1
 !i10b 1
-!s100 Oha73Y5J^AchckS@01``D3
-InSEj05]6E?^RkUzY5;cF=3
+!s100 3?7kLfPmB_fO9[8miC]Rf1
+IlzHK4zl5cLz7ie`I:hNE;2
 S1
 R2
-w1725939034
+Z8 w1725942013
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv
-!i122 101
-L0 1 8
+!i122 110
+L0 7 8
+R3
 R4
-R5
 r1
 !s85 0
 31
-Z11 !s108 1725941386.000000
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vmux2
 R0
-R10
+R1
 !i10b 1
-!s100 ^[1]9<kTjiXbL>E_<8=Ib2
-IkUG]]cBm]PMG=iI0<?No03
+!s100 SEP>jzhGKi9c?75NiE[E]3
+Ie3DUQ1bNM;8gBW;A;[ZA53
 S1
 R2
-Z12 w1725849362
-Z13 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
-Z14 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
-!i122 100
-L0 60 8
+Z9 w1725942014
+Z10 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+Z11 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+!i122 109
+L0 64 8
+R3
 R4
-R5
 r1
 !s85 0
 31
-R11
-Z15 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
-Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+Z12 !s108 1725942017.000000
+Z13 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vmux_tb
 R0
 R1
 !i10b 1
-!s100 emaonf6z:9R6ZQ9hB<Ri;1
-IF17;hhM`B6oi@QFDibMV=0
+!s100 Wz0d2bJc00F^e`M9mAKjN2
+IM40_5oW8gY@CgXibPCI`10
 S1
 R2
-w1725941015
+R8
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
-!i122 102
-Z17 L0 3 68
+!i122 111
+Z15 L0 9 68
+R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vsevensegments
 R0
 R1
@@ -172,142 +172,142 @@ R2
 w1725940317
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
-!i122 103
+!i122 112
+L0 2 29
 R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vsevensegments_tb
 R0
 R1
 !i10b 1
-!s100 ^P=L@OARm`2la<RiC6dXF2
-I1>7YceCO_YbdmjKR4_XP?1
+!s100 j:jJfz9mWWkcNB7TkchjE2
+IK^PKQ28>ZDRH^VFTNl?Z30
 S1
 R2
-w1725940157
+w1725942012
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv
-!i122 104
-L0 3 72
+!i122 113
+L0 9 72
+R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vsum
 R0
 R1
 !i10b 1
-!s100 `lAW>[ci0G@RzLFPdTIDH1
-ILMB3dm>FlU[gW0Ahh7<C52
+!s100 RkS;5S_:H>YKV9j6:AT@b2
+I4[^[FBKKT_l=21nUUGn1Z0
 S1
 R2
-w1725939538
+w1725942009
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv
-!i122 105
-L0 1 17
+!i122 114
+L0 7 17
+R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vsum2
 R0
-R10
+R1
 !i10b 1
-!s100 :k?YU?j=E4nKNbKkDfE>e3
-I:=<Mo4N3_B6lA=RV3aekb3
+!s100 Fn50HeDAlSN@N9LkHdKSV1
+IeAJF=FFVSzRGUG<l6gDO]0
 S1
 R2
-R12
-R13
-R14
-!i122 100
-L0 99 17
+R9
+R10
+R11
+!i122 109
+L0 103 17
+R3
 R4
-R5
 r1
 !s85 0
 31
-R11
-R15
-R16
+R12
+R13
+R14
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vsum_tb
 R0
 R1
 !i10b 1
-!s100 b2CmzBX2VQH]L12`d1OWN3
-Ie_L8B6QJQP7E4:agho6Wi2
+!s100 jj5NYeo:F=?`2n==jZ_cC0
+In0[?YcQ0akLS4CJajo9MY3
 S1
 R2
-w1725941197
+R9
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
-!i122 106
-R17
+!i122 115
+R15
+R3
 R4
-R5
 r1
 !s85 0
 31
-R6
+R5
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv|
 !s101 -O0
 !i113 1
+R6
 R7
-R8
 vtop
 R0
-R10
+R1
 !i10b 1
-!s100 ^HGCbWJO2bQDdafHYWd;E1
-IQG40m2;g:R>bmRNIfgKoo2
+!s100 Ia[QJULWdd^2lSQH=RQI31
+IP>NGRGBEf]`LNU7<cOeN81
 S1
 R2
-R12
-R13
-R14
-!i122 100
 R9
+R10
+R11
+!i122 109
+L0 7 26
+R3
 R4
-R5
 r1
 !s85 0
 31
-R11
-R15
-R16
+R12
+R13
+R14
 !s101 -O0
 !i113 1
+R6
 R7
-R8

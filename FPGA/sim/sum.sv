@@ -1,3 +1,9 @@
+// Victoria Parizot
+// vparizot@g.hmc.edu
+// 09/09/2024
+
+// descr: sums 2 4 bit digits into a 5 bit digit
+
 module sum (
 	input logic [3:0] s1, s2,
 	output logic [4:0] led);
