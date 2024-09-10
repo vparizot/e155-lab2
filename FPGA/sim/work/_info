@@ -11,33 +11,59 @@ cModel Technology
 dC:/lscc/radiant/3.2/modeltech/win32loem
 vhsoscEnable
 Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
-Z1 !s110 1725850126
+Z1 !s110 1725941387
 !i10b 1
-!s100 W]ggCgZhSoY?eHEo4HQoW3
-ILB1KK1`N_iFK;WGT5cTUM1
+!s100 =F@GBSEjo:UQ`Tjne7M`00
+Izkf]BfPoY9O662;GmFn2U1
 S1
 Z2 dC:/Users/vparizot/E155/lab2_mvp/FPGA/sim
-Z3 w1725849362
-Z4 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
-Z5 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
-!i122 7
-L0 30 28
-Z6 VDg1SIo80bB@j0V0VzS_@n1
-Z7 OT;L;2021.4;73
+w1725941384
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv
+!i122 107
+Z3 L0 2 29
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OT;L;2021.4;73
 r1
 !s85 0
 31
-Z8 !s108 1725850126.000000
-Z9 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
-Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+Z6 !s108 1725941387.000000
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv|
 !s101 -O0
 !i113 1
-Z11 o-work work -sv -O0
-Z12 tCvgOpt 0
+Z7 o-work work -sv -O0
+Z8 tCvgOpt 0
 nhsosc@enable
-vlabtwo_tb
+vhsoscEnable_tb
 R0
 R1
+!i10b 1
+!s100 ?:4>miW^kRGzmA3_S3mZn3
+I8W`93ED7YccjVUKlQJdg43
+S1
+R2
+w1725940602
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv
+!i122 108
+Z9 L0 3 26
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv|
+!s101 -O0
+!i113 1
+R7
+R8
+nhsosc@enable_tb
+vlabtwo_tb
+R0
+!s110 1725939133
 !i10b 1
 !s100 8?5JNA48hRFMZ;_Vl[Thi2
 IH:YVUT0:=DU[E7@zcoVJ33
@@ -46,117 +72,242 @@ R2
 w1725850123
 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv
 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv
-!i122 8
+!i122 25
 L0 6 68
-R6
-R7
+R4
+R5
 r1
 !s85 0
 31
-R8
+!s108 1725939133.000000
 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv|
 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwo_tb.sv|
 !s101 -O0
 !i113 1
-R11
-R12
+R7
+R8
+vmux
+R0
+Z10 !s110 1725941386
+!i10b 1
+!s100 Oha73Y5J^AchckS@01``D3
+InSEj05]6E?^RkUzY5;cF=3
+S1
+R2
+w1725939034
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv
+!i122 101
+L0 1 8
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1725941386.000000
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv|
+!s101 -O0
+!i113 1
+R7
+R8
 vmux2
 R0
-R1
+R10
 !i10b 1
 !s100 ^[1]9<kTjiXbL>E_<8=Ib2
 IkUG]]cBm]PMG=iI0<?No03
 S1
 R2
-R3
+Z12 w1725849362
+Z13 8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+Z14 FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+!i122 100
+L0 60 8
 R4
 R5
-!i122 7
-L0 60 8
-R6
-R7
 r1
 !s85 0
 31
-R8
-R9
-R10
+R11
+Z15 !s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv|
 !s101 -O0
 !i113 1
-R11
-R12
+R7
+R8
+vmux_tb
+R0
+R1
+!i10b 1
+!s100 emaonf6z:9R6ZQ9hB<Ri;1
+IF17;hhM`B6oi@QFDibMV=0
+S1
+R2
+w1725941015
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
+!i122 102
+Z17 L0 3 68
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv|
+!s101 -O0
+!i113 1
+R7
+R8
 vsevensegments
 R0
 R1
 !i10b 1
-!s100 OG>H0z1CBcIX94EHDc[g[2
-I^OMi1Wnba=gF77fUG>HYH3
+!s100 zBdA;l<J=;mmh=4L[=R]A1
+IS83H4SaPR8?Oz5WACECOn3
 S1
 R2
+w1725940317
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
+!i122 103
 R3
 R4
 R5
-!i122 7
-L0 69 29
-R6
-R7
 r1
 !s85 0
 31
-R8
-R9
-R10
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv|
 !s101 -O0
 !i113 1
-R11
-R12
-vsum2
+R7
+R8
+vsevensegments_tb
 R0
 R1
+!i10b 1
+!s100 ^P=L@OARm`2la<RiC6dXF2
+I1>7YceCO_YbdmjKR4_XP?1
+S1
+R2
+w1725940157
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv
+!i122 104
+L0 3 72
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv|
+!s101 -O0
+!i113 1
+R7
+R8
+vsum
+R0
+R1
+!i10b 1
+!s100 `lAW>[ci0G@RzLFPdTIDH1
+ILMB3dm>FlU[gW0Ahh7<C52
+S1
+R2
+w1725939538
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv
+!i122 105
+L0 1 17
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv|
+!s101 -O0
+!i113 1
+R7
+R8
+vsum2
+R0
+R10
 !i10b 1
 !s100 :k?YU?j=E4nKNbKkDfE>e3
 I:=<Mo4N3_B6lA=RV3aekb3
 S1
 R2
-R3
+R12
+R13
+R14
+!i122 100
+L0 99 17
 R4
 R5
-!i122 7
-L0 99 17
-R6
-R7
 r1
 !s85 0
 31
-R8
-R9
-R10
+R11
+R15
+R16
 !s101 -O0
 !i113 1
-R11
-R12
-vtop
+R7
+R8
+vsum_tb
 R0
 R1
+!i10b 1
+!s100 b2CmzBX2VQH]L12`d1OWN3
+Ie_L8B6QJQP7E4:agho6Wi2
+S1
+R2
+w1725941197
+8C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
+FC:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
+!i122 106
+R17
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv|
+!s101 -O0
+!i113 1
+R7
+R8
+vtop
+R0
+R10
 !i10b 1
 !s100 ^HGCbWJO2bQDdafHYWd;E1
 IQG40m2;g:R>bmRNIfgKoo2
 S1
 R2
-R3
+R12
+R13
+R14
+!i122 100
+R9
 R4
 R5
-!i122 7
-L0 3 26
-R6
-R7
 r1
 !s85 0
 31
-R8
-R9
-R10
+R11
+R15
+R16
 !s101 -O0
 !i113 1
-R11
-R12
+R7
+R8
