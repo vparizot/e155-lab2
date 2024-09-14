@@ -27,6 +27,4 @@ sum2 m4(s1, s2, led);
 
 assign selector2 = ~selector; 
 
-
-
 endmodule

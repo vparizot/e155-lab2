@@ -1,25 +1,78 @@
-C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
+C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable_tb.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+-- Compiling module hsoscEnable_tb
+
+Top level modules:
+	hsoscEnable_tb
+
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments_tb.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+-- Compiling module sevensegments_tb
+
+Top level modules:
+	sevensegments_tb
+
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+-- Compiling module sum
+
+Top level modules:
+	sum
+
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sum_tb.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
 Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
 -- Compiling module sum_tb
 
 Top level modules:
 	sum_tb
 
-} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/hsoscEnable.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
+Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
+-- Compiling module hsoscEnable
+
+Top level modules:
+	hsoscEnable
+
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/mux_tb.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
 Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
 -- Compiling module mux_tb
 
 Top level modules:
 	mux_tb
 
-} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv {1 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/sevensegments.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
 Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
 -- Compiling module sevensegments
 
 Top level modules:
 	sevensegments
 
-} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv {1 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+} {} {}} C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv {2 {vlog -work work -sv -stats=none C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/top.sv
+** Warning: (vlog-14) Failed to open "C:/Users/vparizot/E155/lab2_mvp/FPGA/sim/labtwosim.mpf" specified by the MODELSIM environment variable.
+No such file or directory. (errno = ENOENT)
 Model Technology ModelSim - Lattice FPGA Edition vlog 2021.4 Compiler 2021.10 Oct 14 2021
 -- Compiling module top
 -- Compiling module hsoscEnable
